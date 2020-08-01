@@ -1,13 +1,9 @@
 #Readme.md
 
-This is an imporant document
-We are having thurderstorm
-It is dark and wet today
 
-I have made the following changes
-1. The design
-2. The color
-3. The pattern
+-Here are the details requested for the document
+-Title: The Guessing Game
+-Date and Time: 8/1/2020
+-Number of Lines: 51
 
 
-##I have enjoyed createing this document##
