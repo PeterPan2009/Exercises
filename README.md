@@ -1,4 +1,4 @@
-# Readme.md
+# READ ME
 
 
 Here are the details requested for the document
@@ -7,4 +7,5 @@ Here are the details requested for the document
 1. **Number of Lines:** 51
 
 [Click Here](https://github.com/PeterPan2009/Exercises.git) to go to GitHub Page
+(!(https://static.parade.com/wp-content/uploads/2013/04/bugs-bunny-ftr.jpg))
 
